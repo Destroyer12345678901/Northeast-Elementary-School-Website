@@ -80,7 +80,11 @@ h5 {
     color: burlywood;
 }
 
-#B_Joe_Biden:hover {
-    color: cyan;
+#B_Joe_Biden:hover{
+    color:cyan;
     font-size: 40px;
+}
+#p_modal_Joe_Biden{
+    font-size: 40px;
+    color: burlywood;
 }
